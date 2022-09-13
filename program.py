@@ -14,7 +14,7 @@ def testcases():
     """Testfunctie"""
     print("test")
 
-def testcases1():
+def testcases4():
     """Testfunctie"""
     print("test")
 
