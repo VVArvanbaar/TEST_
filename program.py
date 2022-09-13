@@ -21,7 +21,9 @@ def testcases4():
 p1 = Person("Rik", 18)
 print(testcase.__doc__)
 
-
+for i in range(0,40):
+    print("WOW")
+    
 #  hier is een mooooie nieuwe functie zeg wauw
 
 # Ahh ohh develop is aangepast
