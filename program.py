@@ -29,3 +29,9 @@ for i in range(0,40):
 # Ahh ohh develop is aangepast
 
 # Nog een commit!
+
+def ahoh():
+    """docstring"""
+    return
+
+ahoh()
