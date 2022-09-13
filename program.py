@@ -27,3 +27,9 @@ print(testcase.__doc__)
 # Ahh ohh develop is aangepast
 
 # Nog een commit!
+
+def ahoh():
+    """docstring"""
+    return
+
+ahoh()
