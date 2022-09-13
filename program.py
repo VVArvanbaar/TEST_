@@ -14,5 +14,9 @@ def testcases():
     """Testfunctie"""
     print("test")
 
+def testcases1():
+    """Testfunctie"""
+    print("test")
+
 p1 = Person("Rik", 18)
 print(testcase.__doc__)
