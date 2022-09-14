@@ -6,4 +6,4 @@ def applicatie(appsetting):
 
 applicatie("test")
 
-print("nieuw")
+print("beter doe je dit")
