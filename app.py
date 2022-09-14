@@ -5,5 +5,3 @@ def applicatie(appsetting):
     return appsetting
 
 applicatie("test")
-
-print("nieuw")
