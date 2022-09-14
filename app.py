@@ -5,3 +5,5 @@ def applicatie(appsetting):
     return appsetting
 
 applicatie("test")
+
+print("beter doe je dit")
